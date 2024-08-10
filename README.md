@@ -21,7 +21,7 @@ Follow these steps to run the project locally:
 
     bash
 
-git clone https://github.com/ssahibsingh/React_E-Commerce
+git clone 
 
 Go to the project directory:
 
