@@ -1,18 +1,16 @@
 E-Commerce Website
 
 An E-Commerce website built with the React.js framework.
-Demo
 
-Check out the live demo here: E-Commerce Demo
+
+Check out the live demo here: E-Commerce Demo :- https://aurabazar.vercel.app/
 Features
 
     🛠️ Easy Integration with Backend: Designed to be easily connected with any backend service.
     📱 Fully Responsive: Optimized for all devices, providing a seamless shopping experience across desktop, tablet, and mobile.
 
-Screenshots
 
 
-Add a screenshot of your app here to give users a visual overview.
 Run Locally
 
 Follow these steps to run the project locally:
@@ -21,7 +19,7 @@ Follow these steps to run the project locally:
 
     bash
 
-git clone 
+git clone https://github.com/shubham-dev-tiwari/Ecommerce.git
 
 Go to the project directory:
 
@@ -62,4 +60,4 @@ Contributions are always welcome! To get started:
 If you find any bugs or have feature suggestions, feel free to raise an issue, and we’ll discuss it.
 Feedback
 
-If you have any feedback or questions, please feel free to reach out to me here.
+If you have any feedback or questions, please feel free to reach out to me .
