@@ -4,6 +4,8 @@ An E-Commerce website built with the React.js framework.
 
 
 Check out the live demo here: E-Commerce Demo :- https://aurabazar.vercel.app/
+
+
 Features
 
     🛠️ Easy Integration with Backend: Designed to be easily connected with any backend service.
